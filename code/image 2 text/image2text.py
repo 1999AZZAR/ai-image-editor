@@ -14,3 +14,5 @@ class i2t:
     print(response)
 
 i2t_instance = i2t()
+
+# link : https://replicate.com/methexis-inc/img2prompt

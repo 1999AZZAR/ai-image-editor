@@ -1,9 +1,11 @@
 # Image to image Modification Using ControlNet
 
 ## Overview
+
 This repository contains a Python script that leverages the [ControlNet](https://replicate.com/jagilley/controlnet) API to modify images based on a variety of control parameters. ControlNet is a powerful tool that can transform images in a creative and controlled way.
 
 ## Requirements
+
 Before using this script, make sure you have the following requirements in place:
 
 - Python 3.x
@@ -12,6 +14,7 @@ Before using this script, make sure you have the following requirements in place
 - An API key or access to the ControlNet API, which you can obtain from [Replicate](https://replicate.com)
 
 ## Getting Started
+
 Follow these steps to get started with image modification using ControlNet:
 
 1. Clone or download this repository to your local machine.
@@ -43,12 +46,15 @@ Follow these steps to get started with image modification using ControlNet:
 5. Execute the `image2image.py` script.
 
 ## Output
+
 The modified image will be saved as "sample_image.png" in the same directory where the script is located.
 
 ## Additional Information
+
 - You can find more details about the ControlNet API [here](https://replicate.com/jagilley/controlnet/api).
 
 ## Acknowledgments
+
 - Thanks to [Replicate](https://replicate.com) for providing access to the ControlNet API.
 
 Feel free to explore and experiment with the ControlNet API to create unique and intriguing image modifications!

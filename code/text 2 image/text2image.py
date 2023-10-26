@@ -19,9 +19,10 @@ class t2i:
     _instance = None  # Singleton instance
     
     output = replicate.run(
+        # uncoment one model only that u want to use as the model for the image generation
         # "alexgenovese/sdxl-lora:423422aecd2567600cd6456fdcaef85f21a772e9fa1512311be1eeb4aa0bb0d5",
         # "stability-ai/sdxl:2b017d9b67edd2ee1401238df49d75da53c523f36e363881e057f5dc3ed3c5b2", 
-        "alexgenovese/sdxl:4b017dc7f7e71d1be25569c854897a433bb4a2bc285b6e1009fce5287d62806c",
+        # "alexgenovese/sdxl:4b017dc7f7e71d1be25569c854897a433bb4a2bc285b6e1009fce5287d62806c",
         # "luosiallen/latent-consistency-model:553803fd018b3cf875a8bc774c99da9b33f36647badfd88a6eec90d61c5f62fc",
         input={
             "prompt": prompt,
@@ -49,3 +50,9 @@ class t2i:
     file.close()
 
 t2i_instance = t2i()
+
+# links :
+# https://replicate.com/alexgenovese/sdxl-lora
+# https://replicate.com/stability-ai/sdxl
+# https://replicate.com/alexgenovese/sdxl
+# https://replicate.com/luosiallen/latent-consistency-model
