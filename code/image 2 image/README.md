@@ -58,3 +58,14 @@ The modified image will be saved as "sample_image.png" in the same directory whe
 - Thanks to [Replicate](https://replicate.com) for providing access to the ControlNet API.
 
 Feel free to explore and experiment with the ControlNet API to create unique and intriguing image modifications!
+
+---
+
+## support
+
+You can support me by buy me a coffee if u like to.
+<div align="left">
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>

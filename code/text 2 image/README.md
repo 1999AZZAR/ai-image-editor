@@ -60,3 +60,14 @@ You can find more details about the models and the Replicate Image Creation API 
 - Thanks to [Replicate](https://replicate.com) for providing access to the Replicate Image Creation API.
 
 Explore the various models and prompts to unleash your creativity and generate captivating images from text descriptions!
+
+---
+
+## support
+
+You can support me by buy me a coffee if u like to.
+<div align="left">
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>

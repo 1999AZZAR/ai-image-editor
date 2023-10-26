@@ -35,3 +35,14 @@ Each sub-section contains detailed instructions on how to use the scripts, what 
 Thanks to [Replicate](https://replicate.com) for providing access to their powerful APIs, enabling creative image manipulation and generation.
 
 Feel free to use these scripts to explore the world of AI-driven image manipulation, from image transformations and text prompt conversions to imaginative image creation. Unleash your creativity and start experimenting with these powerful tools!
+
+---
+
+## support
+
+You can support me by buy me a coffee if u like to.
+<div align="left">
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>

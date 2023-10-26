@@ -46,3 +46,14 @@ The generated text prompt will be printed in the console.
 - Thanks to [Replicate](https://replicate.com) for providing access to the Img2Prompt API.
 
 Feel free to use Img2Prompt to automatically generate text descriptions for your images!
+
+---
+
+## support
+
+You can support me by buy me a coffee if u like to.
+<div align="left">
+  <a href="https://www.buymeacoffee.com/azzar" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
+  </a>
+</div>
